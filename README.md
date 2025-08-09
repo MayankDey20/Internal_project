@@ -1,7 +1,4 @@
-# Internal_project
-Student ID: 22BMR10009
-Student Name: Sushanth Rao
-Course: CDS3005 - Foundations of Data Science
+
 
 Project Overview :
 This project aims to predict whether a student will pass or fail their final math exam based on a range of demographic, social, and school-related factors. The model is built using a Random Forest Classifier and is optimized through feature engineering and hyperparameter tuning with GridSearchCV
